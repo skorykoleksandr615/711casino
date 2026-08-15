@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://711casino.casino/sitemap.xml
+Sitemap: https://711casino.casino/sitemap_index.xml
